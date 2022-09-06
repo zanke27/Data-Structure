@@ -1,0 +1,189 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\스택">
+      <UniqueIdentifier>{51bb0fa3-7d5c-4aa1-8b86-97db165082b8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\연결리스트">
+      <UniqueIdentifier>{c01ea339-d037-4e6e-9c41-080d2ddd0f8d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\큐">
+      <UniqueIdentifier>{457ae94c-063e-40c3-98ca-d3c988ca277e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\재귀함수">
+      <UniqueIdentifier>{8c93d529-2379-49e7-a9e8-2e4c390aa050}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\재귀함수\피보나치">
+      <UniqueIdentifier>{53cd4c33-5070-4105-a5d6-e92bb13c5706}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\트리">
+      <UniqueIdentifier>{16c0f97e-bef2-42fd-9740-2c4dd05ae79b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\기타">
+      <UniqueIdentifier>{84d67cc7-b9e6-4763-a834-3de97ff700a8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\트리\트리탐색">
+      <UniqueIdentifier>{50219bc5-a0c9-4650-9e16-9213b171424d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\코딩테스트">
+      <UniqueIdentifier>{af4900db-a4a4-46c3-8fb7-38e115c1cd9f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\그래프">
+      <UniqueIdentifier>{ab2118c4-059c-4f0d-a5ba-9304b19f2110}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="스택응용2.cpp">
+      <Filter>소스 파일\스택</Filter>
+    </ClCompile>
+    <ClCompile Include="스택구현.cpp">
+      <Filter>소스 파일\스택</Filter>
+    </ClCompile>
+    <ClCompile Include="스택연습문제%281%29.cpp">
+      <Filter>소스 파일\스택</Filter>
+    </ClCompile>
+    <ClCompile Include="스택연습문제(2).cpp">
+      <Filter>소스 파일\스택</Filter>
+    </ClCompile>
+    <ClCompile Include="스택응용1.cpp">
+      <Filter>소스 파일\스택</Filter>
+    </ClCompile>
+    <ClCompile Include="큐응용%281%29.cpp">
+      <Filter>소스 파일\큐</Filter>
+    </ClCompile>
+    <ClCompile Include="큐응용%282%29.cpp">
+      <Filter>소스 파일\큐</Filter>
+    </ClCompile>
+    <ClCompile Include="큐응용%283%29.cpp">
+      <Filter>소스 파일\큐</Filter>
+    </ClCompile>
+    <ClCompile Include="원형큐.cpp">
+      <Filter>소스 파일\큐</Filter>
+    </ClCompile>
+    <ClCompile Include="연결리스트큐.cpp">
+      <Filter>소스 파일\연결리스트</Filter>
+    </ClCompile>
+    <ClCompile Include="연결리스트.cpp">
+      <Filter>소스 파일\연결리스트</Filter>
+    </ClCompile>
+    <ClCompile Include="연결리스트스택.cpp">
+      <Filter>소스 파일\연결리스트</Filter>
+    </ClCompile>
+    <ClCompile Include="선형큐.cpp">
+      <Filter>소스 파일\큐</Filter>
+    </ClCompile>
+    <ClCompile Include="피보나치중복줄이기.cpp">
+      <Filter>소스 파일\재귀함수\피보나치</Filter>
+    </ClCompile>
+    <ClCompile Include="피보나치3.cpp">
+      <Filter>소스 파일\재귀함수\피보나치</Filter>
+    </ClCompile>
+    <ClCompile Include="피보나치4.cpp">
+      <Filter>소스 파일\재귀함수\피보나치</Filter>
+    </ClCompile>
+    <ClCompile Include="재귀함수%284%29.cpp">
+      <Filter>소스 파일\재귀함수</Filter>
+    </ClCompile>
+    <ClCompile Include="재귀팩토리얼합.cpp">
+      <Filter>소스 파일\재귀함수</Filter>
+    </ClCompile>
+    <ClCompile Include="재귀함수%281%29.cpp">
+      <Filter>소스 파일\재귀함수</Filter>
+    </ClCompile>
+    <ClCompile Include="재귀함수%282%29.cpp">
+      <Filter>소스 파일\재귀함수</Filter>
+    </ClCompile>
+    <ClCompile Include="재귀함수%283%29.cpp">
+      <Filter>소스 파일\재귀함수</Filter>
+    </ClCompile>
+    <ClCompile Include="그냥스택.cpp">
+      <Filter>소스 파일\스택</Filter>
+    </ClCompile>
+    <ClCompile Include="bt.cpp">
+      <Filter>소스 파일\트리</Filter>
+    </ClCompile>
+    <ClCompile Include="이진트리.cpp">
+      <Filter>소스 파일\트리</Filter>
+    </ClCompile>
+    <ClCompile Include="기차운행.cpp">
+      <Filter>소스 파일\기타</Filter>
+    </ClCompile>
+    <ClCompile Include="몽쉘먹기.cpp">
+      <Filter>소스 파일\기타</Filter>
+    </ClCompile>
+    <ClCompile Include="배열문자뒤집기.cpp">
+      <Filter>소스 파일\기타</Filter>
+    </ClCompile>
+    <ClCompile Include="주민등록번호판별.cpp">
+      <Filter>소스 파일\기타</Filter>
+    </ClCompile>
+    <ClCompile Include="중위후위변환.cpp">
+      <Filter>소스 파일\기타</Filter>
+    </ClCompile>
+    <ClCompile Include="파스칼삼각형.cpp">
+      <Filter>소스 파일\기타</Filter>
+    </ClCompile>
+    <ClCompile Include="후위표기식.cpp">
+      <Filter>소스 파일\기타</Filter>
+    </ClCompile>
+    <ClCompile Include="이진탐색.cpp">
+      <Filter>소스 파일\트리\트리탐색</Filter>
+    </ClCompile>
+    <ClCompile Include="bst.cpp">
+      <Filter>소스 파일\트리</Filter>
+    </ClCompile>
+    <ClCompile Include="영어사전.cpp">
+      <Filter>소스 파일\트리\트리탐색</Filter>
+    </ClCompile>
+    <ClCompile Include="bt2.cpp">
+      <Filter>소스 파일\트리</Filter>
+    </ClCompile>
+    <ClCompile Include="우선순위큐.cpp">
+      <Filter>소스 파일\트리</Filter>
+    </ClCompile>
+    <ClCompile Include="나이차이구하기.cpp">
+      <Filter>소스 파일\코딩테스트</Filter>
+    </ClCompile>
+    <ClCompile Include="석차구하기.cpp">
+      <Filter>소스 파일\코딩테스트</Filter>
+    </ClCompile>
+    <ClCompile Include="트럭주차.cpp">
+      <Filter>소스 파일\코딩테스트</Filter>
+    </ClCompile>
+    <ClCompile Include="주몽.cpp">
+      <Filter>소스 파일\코딩테스트</Filter>
+    </ClCompile>
+    <ClCompile Include="숫자 문자열과 영단어.cpp">
+      <Filter>소스 파일\코딩테스트</Filter>
+    </ClCompile>
+    <ClCompile Include="string사용해보기.cpp">
+      <Filter>소스 파일\코딩테스트</Filter>
+    </ClCompile>
+    <ClCompile Include="반복자.cpp">
+      <Filter>소스 파일\코딩테스트</Filter>
+    </ClCompile>
+    <ClCompile Include="인접행렬.cpp">
+      <Filter>소스 파일\그래프</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="bt.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="bt2.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
