@@ -43,6 +43,9 @@
     <Filter Include="소스 파일\그래프">
       <UniqueIdentifier>{ab2118c4-059c-4f0d-a5ba-9304b19f2110}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\백준">
+      <UniqueIdentifier>{27131889-1700-48db-acbd-88b30a8d0cd3}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="스택응용2.cpp">
@@ -159,12 +162,6 @@
     <ClCompile Include="석차구하기.cpp">
       <Filter>소스 파일\코딩테스트</Filter>
     </ClCompile>
-    <ClCompile Include="트럭주차.cpp">
-      <Filter>소스 파일\코딩테스트</Filter>
-    </ClCompile>
-    <ClCompile Include="주몽.cpp">
-      <Filter>소스 파일\코딩테스트</Filter>
-    </ClCompile>
     <ClCompile Include="숫자 문자열과 영단어.cpp">
       <Filter>소스 파일\코딩테스트</Filter>
     </ClCompile>
@@ -184,7 +181,19 @@
       <Filter>소스 파일\그래프</Filter>
     </ClCompile>
     <ClCompile Include="미로탐색.cpp">
-      <Filter>소스 파일\코딩테스트</Filter>
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="주몽.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="트럭주차.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="유기농 배추.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="다익스트라.cpp">
+      <Filter>소스 파일\그래프</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
