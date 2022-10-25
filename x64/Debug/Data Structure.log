@@ -1,6 +1,2 @@
-﻿  Astar알고리즘.cpp
-D:\GitHub\Data-Structure\Astar알고리즘.cpp(84,84): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-D:\GitHub\Data-Structure\Astar알고리즘.cpp(85,84): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-D:\GitHub\Data-Structure\Astar알고리즘.cpp(89,84): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-D:\GitHub\Data-Structure\Astar알고리즘.cpp(90,84): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+﻿  프림 알고리즘.cpp
   Data Structure.vcxproj -> D:\GitHub\Data-Structure\x64\Debug\Data Structure.exe
