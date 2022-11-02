@@ -46,6 +46,9 @@
     <Filter Include="소스 파일\백준">
       <UniqueIdentifier>{27131889-1700-48db-acbd-88b30a8d0cd3}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\정렬">
+      <UniqueIdentifier>{bb4dfe6d-e98a-4234-ba5e-cd21c0d597db}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="스택응용2.cpp">
@@ -209,6 +212,27 @@
     </ClCompile>
     <ClCompile Include="프림 알고리즘.cpp">
       <Filter>소스 파일\그래프</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\USER\Downloads\퀵정렬.cpp">
+      <Filter>소스 파일\정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="버블정렬.cpp">
+      <Filter>소스 파일\정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="선택정렬.cpp">
+      <Filter>소스 파일\정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="삽입정렬.cpp">
+      <Filter>소스 파일\정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="수 정렬하기.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="삽입정렬 짜본거.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="수 정렬하기 2.cpp">
+      <Filter>소스 파일\백준</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
